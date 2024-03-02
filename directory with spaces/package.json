@@ -1,0 +1,14 @@
+{
+  "name": "youtube-dl-exec-bug-repro",
+  "version": "1.0.0",
+  "description": "Reproduce a bug for youtube-dl-exec",
+  "main": "directory with spaces/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "youtube-dl-exec": "^2.5.7"
+  }
+}
